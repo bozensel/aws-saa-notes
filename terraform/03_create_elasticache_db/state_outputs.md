@@ -1,4 +1,5 @@
 terraform state list
+
 aws_elasticache_cluster.redis
 aws_elasticache_subnet_group.redis_subnet_group
 aws_security_group.redis_sg
@@ -7,6 +8,7 @@ aws_subnet.subnet2
 aws_vpc.main
 
 terraform state show aws_elasticache_cluster.redis
+
 # aws_elasticache_cluster.redis:
 resource "aws_elasticache_cluster" "redis" {
     arn                        = "arn:aws:elasticache:eu-central-1:323928186579:cluster:simple-redis"
