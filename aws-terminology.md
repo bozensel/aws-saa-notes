@@ -79,9 +79,3 @@ AWS services that are deployed inside a specific region:
 - Regional service → deployed in a region
 
 ---
-
-## 🧠 Exam Tip
-
-- High availability = multi-AZ design
-- Low latency global delivery = Edge Locations
-- Compliance/data residency = Region selection matters
