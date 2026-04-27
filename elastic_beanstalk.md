@@ -181,7 +181,7 @@ Elastic Beanstalk is useful when you:
 
 ---
 
-## 🔥 When to Use
+## 🔥 When to Use 
 
 ### ✅ Good Fit
 - Fast application deployment
