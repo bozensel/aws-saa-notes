@@ -234,10 +234,4 @@ On-Prem → AWS Resolver → Private Zone
 
 ---
 
-# 🚀 Simple Flow
-
-User → DNS → gets IP → connects to server
-
-DNS only answers:
-“Where should I go?”
 
