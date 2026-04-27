@@ -161,17 +161,7 @@ EC2 Instance
 - Auto Scaling enabled
 - High availability
 
-       ┌───────────────┐
-  
-       │ Load Balancer │
-       └──────┬────────┘
-  
-              │
-    ┌─────────┼─────────┐
-    ▼         ▼         ▼
-  
- EC2 #1    EC2 #2    EC2 #3
- 
+
 ---
 
 ## 🧠 Summary
@@ -195,5 +185,10 @@ Elastic Beanstalk is useful when you:
 - Dev / test / simple production setups
 
 ---
+
+
+
+
+
 
 
