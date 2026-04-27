@@ -147,7 +147,9 @@ EC2 Instance
 - Load Balancer distributes traffic
 - Auto Scaling enabled
 - High availability
+
        ┌───────────────┐
+  
        │ Load Balancer │
        └──────┬────────┘
               │
