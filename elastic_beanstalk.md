@@ -147,9 +147,13 @@ Elastic Beanstalk supports:
 - No Load Balancer
 - Low cost
 - Good for development/testing
+
 User
+
 │
+
 ▼
+
 EC2 Instance
 
 ---
@@ -185,10 +189,5 @@ Elastic Beanstalk is useful when you:
 - Dev / test / simple production setups
 
 ---
-
-
-
-
-
 
 
