@@ -162,13 +162,18 @@ EC2 Instance
 - High availability
 
        ┌───────────────┐
+  
        │ Load Balancer │
+  
        └──────┬────────┘
+  
               │
+  
     ┌─────────┼─────────┐
+  
     ▼         ▼         ▼
+  
  EC2 #1    EC2 #2    EC2 #3
-
  
 ---
 
