@@ -95,18 +95,31 @@ Where your app runs.
 
 ## 🔄 Deployment Flow
 Create Application
+
 │
+
 ▼
+
 Upload Version
+
 │
+
 ▼
+
 Create Environment
+
 │
+
 ▼
+
 Application Runs
+
 │
+
 ▼
+
 Deploy New Version (updates)
+
 
 
 ---
