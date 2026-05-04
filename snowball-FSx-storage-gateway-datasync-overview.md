@@ -9,7 +9,7 @@ AWS Snowball is a secure, portable device designed to transfer large volumes of 
 ### Key Characteristics
 - Handles data transfers at **petabyte scale**
 - Ideal when network transfer is slow or unreliable
-- Physically ships data to AWS data centers
+- Physically ships data to AWS data centers 
 
 ### When to Use Snowball
 
