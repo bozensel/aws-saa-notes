@@ -26,7 +26,7 @@ Use Snowball if:
 
 ### What is Edge Computing?
 
-Edge computing means processing data close to where it is generated instead of sending it to the cloud.
+Edge computing means processing data close to where it is generated instead of sending it to the cloud. 
 
 ### Typical Locations
 - Vehicles (trucks, ships)
