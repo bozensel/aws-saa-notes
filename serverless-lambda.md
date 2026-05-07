@@ -220,9 +220,3 @@ Pricing is based on:
 * Allocated memory
 
 ````
-
-
-
-
-
-
