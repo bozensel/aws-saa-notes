@@ -73,9 +73,7 @@ DynamoDB
 
 ---
 
-# lambda.md
-
-```md
+```
 # AWS Lambda
 
 ## What is AWS Lambda?
