@@ -5,10 +5,6 @@ serverless-overview.md
 lambda.md
 ```
 
----
-
-# serverless-overview.md
-
 ````
 # AWS Serverless Overview
 
