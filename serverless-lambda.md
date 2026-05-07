@@ -7,8 +7,6 @@ lambda.md
 
 ---
 
-# serverless-overview.md
-
 ````
 # AWS Serverless Overview
 
@@ -75,9 +73,7 @@ DynamoDB
 
 ---
 
-# lambda.md
-
-```md
+```
 # AWS Lambda
 
 ## What is AWS Lambda?
@@ -224,9 +220,3 @@ Pricing is based on:
 * Allocated memory
 
 ````
-
-
-
-
-
-
