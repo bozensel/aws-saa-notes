@@ -14,4 +14,4 @@
 |  hello-from-lambda      |
 | returns:                |
 | "Hello from Lambda"     |
-+-------------------------+   
++-------------------------+ 
