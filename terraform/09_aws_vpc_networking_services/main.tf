@@ -150,7 +150,7 @@ resource "aws_security_group" "private_sg" {
 }
 
 ############################
-# EC2 INSTANCES 
+# EC2 INSTANCES
 ############################
 
 resource "aws_instance" "bastion" {
