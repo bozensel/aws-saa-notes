@@ -29,7 +29,7 @@ Total IP addresses: 64
 
 ## CIDR Components
 
-### Base IP
+### Base IP 
 
 The starting IP address in the range.
 
