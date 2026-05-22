@@ -1,6 +1,6 @@
 # Amazon VPC and Networking in AWS
 
-## Introduction to CIDR and IPv4 Addressing
+## Introduction to CIDR and IPv4 Addressing 
 
 ### What is CIDR?
 
